@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="main_button">Roll</string>
+    <string name="logoDes">Logo</string>
+    <string name="dice1">First Dice</string>
+    <string name="dice2">Second Dice</string>
+    <string name="buttonDes">Button</string>
+</resources>
